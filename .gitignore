@@ -1,0 +1,12 @@
+# Virtual Environment
+venv
+
+**/__pycache__/
+.pytest_cache
+task-cli/tasks.json
+
+# Build
+*.egg-info/
+*.egg
+build/
+dist/
